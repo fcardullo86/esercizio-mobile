@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Montserrat";
+    margin:0;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+h3 {
+    font-size: 1.5em;
+}
+.header {
+    background-color: rgb(27, 27, 53);
+    color:white;
+    padding: 25px;
+    margin:0;
+}
+div.ritratto {
+    background-color:aqua;
+    padding:50px 40px 100px 40px;
+}
+div#ritratto {
+    padding: 80px 100px 40px 55px;
+   
+}
+#ritratto img {
+    border-radius: 50%;
+    width: 250px;
+}
+.ritratto p {
+    color:white;
+    padding: 0 9òpx;
+    font-weight: 600;
+    margin:0;
+}
+.ritratto h1 {
+    color:white;
+    font-size: 2.5em;
+    padding: 0 80px 0 50px;
+    text-align: center;
+    margin:0;
+}
+div.portfolio {
+    padding: 60px 100px;
+}
+h2#portfolio {
+    border-bottom: 3px solid black;
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 20px;
+}
+/*immagini*/
+
+
+.immagini img {
+    width: 250px;
+    border-radius: 50%;
+}
+.immagini {
+    padding: 30px 80px 30px 90px;
+}
+#img1 {
+    background-color: violet;
+    border-radius: 3%;
+    margin-bottom: 60px;
+}
+#img2 {
+    background-color: yellow;
+    border-radius: 3%;
+    margin-bottom: 60px;
+}
+#img3 {
+    background-color: green;
+    border-radius: 3%;
+    margin-bottom: 60px;
+}
+#img4 {
+    background-color: red;
+    border-radius: 3%;
+    margin-bottom: 60px;
+}
+#img5 {
+    background-color: brown;
+    border-radius: 3%;
+    margin-bottom: 60px;
+}
+#img6 {
+    background-color: violet;
+    border-radius: 3%;
+    margin-bottom: 60px;
+}
+div.about {
+    background-color: aqua;
+}
+.about h2 {
+    padding: 30px 30px 0 30px;
+    padding-bottom: none;
+    margin: 0;
+    color:white;
+    text-align: center;
+    font-size: 2em;
+}
+.about p {
+    padding: 10px 30px;
+    margin: 0;
+    color:white;
+    font-weight: 500;
+    font-size: 1em;
+}
+#download {
+    margin:10px 140px;
+    padding: 15px;
+    border-radius: 5%;
+    color:white;
+    border: 2px solid white;
+    background-color: aqua;
+    font-family: "Montserrat";
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+#download img {
+    width: 15px;
+    padding-right: 1px;
+}
+.form h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+.form input, textarea {
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+    font-family: "Montserrat";
+    font-size:1.2em
+}
+.form button {
+    background-color: aqua;
+    border-radius: 10%;
+    border: none;
+    padding: 15px 20px;
+    color:white;
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+.form div {
+    padding: 5px 65px;
+}
+div.footer {
+    background-color: rgb(27, 27, 53);
+    margin: 0;
+}
+.footer p {
+    margin:0;
+    color:white;
+
+}
+.footer h3, p{
+    margin:0;
+    color:white;
+     font-family: "Montserrat";
+    font-weight: 600;
+    text-align: center;
+    padding:5px;
+}
+.footer h3 {
+    padding: 50px;
+}
+
+.footer {
+    padding-bottom: 20px;
+}
+
+.footer a {
+    color:aqua;
+     font-family: "Montserrat";
+    font-weight: 600;
+}
+div.copyright {
+    margin: 0;
+    background-color: black;
+}
+#link{
+    padding-bottom: 60px;
+}
+
+.copyright p {
+    color:white;
+     font-family: "Montserrat";
+    font-weight: 600;
+    padding: 20px;
+    font-size: 0.6em;
+}
